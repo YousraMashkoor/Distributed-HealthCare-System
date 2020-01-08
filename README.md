@@ -4,19 +4,19 @@ Synchronized and asynchronized replication of the system among 3 different serve
 SERVER 1 
 *(HQ with localhost)*
 
-username: admin
+username: admin _
 password:123
 
 SERVER 2
 *(use assigned IP to connect)*
 
-username: admin1
+username: admin1 _
 password:123
 
 SERVER 3
 *(use assigned IP to connect)*
 
-username: admin2
+username: admin2 _
 password:123
 
 
