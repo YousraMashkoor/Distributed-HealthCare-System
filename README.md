@@ -1,7 +1,7 @@
 # Distributed-HealthCare-System
 Synchronized and asynchronized replication of the system among 3 different server. Using PHP with PHPmyAdmin as the database.
 
-SERVER 1
+SERVER 1 (HQ with localhost)
 
 username: admin
 password:123
