@@ -6,12 +6,12 @@ SERVER 1 (HQ with localhost)
 username: admin
 password:123
 
-SERVER 2
+SERVER 2(use assigned IP to connect)
 
 username: admin1
 password:123
 
-SERVER 3
+SERVER 3(use assigned IP to connect)
 
 username: admin2
 password:123
