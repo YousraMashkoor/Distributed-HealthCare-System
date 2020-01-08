@@ -2,19 +2,19 @@
 Synchronized and asynchronized replication of the system among 3 different server. Using PHP with PHPmyAdmin as the database.
 
 SERVER 1 
-(HQ with localhost)
+*(HQ with localhost)*
 
 username: admin
 password:123
 
 SERVER 2
-(use assigned IP to connect)
+*(use assigned IP to connect)*
 
 username: admin1
 password:123
 
 SERVER 3
-(use assigned IP to connect)
+*(use assigned IP to connect)*
 
 username: admin2
 password:123
